@@ -8,4 +8,4 @@ Packages used for user configs:
 - xorg(all)
 - dmenu
 
-![preview](preview.jpg)
+![preview](preview.png)
